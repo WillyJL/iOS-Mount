@@ -19,7 +19,7 @@ Install it with an AUR helper (eg. [paru](https://github.com/Morganamilo/paru) o
 Close this repo, cd into it and install with make:
 
 ```bash
-git clone https://github.com/Willy-JL/iOS-Mount
+git clone https://github.com/WillyJL/iOS-Mount
 cd iOS-Mount
 sudo make install
 ```
